@@ -1,4 +1,4 @@
-# Intelig-ncia-Artificial-aplicada-Educa-o
+# Inteligência-Artificial-aplicada-na-Educação
 “aprofundar conceitos básicos de IA”, “explorar aplicações práticas em sala de aula”, “criar prompts reutilizáveis para estudo”.
 
 1. Contexto e Objetivos
